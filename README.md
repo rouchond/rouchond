@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-##### My name is David Rouchon and I am a student at Cornell University studying Computer Science.
+##### I'm David Rouchon and I'm currently attending Cornell University studying Computer Science.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidrouchon/)
 
 ---
@@ -20,9 +20,7 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+## About Me
 
-
-##### I'm an avid basketball fan who enjoys web scraping and machine learning. 
-##### Currently, I'm working on my NBA Stats discord bot that scrapes stats from basketball reference and displays them in discord through commands.
-##### I am also beginning development on a Machine Learning Algorithm that will predict if a new player will enter the Hall of Fame by the end of their career.
+##### I'm an avid basketball fan who enjoys web scraping and machine learning. Currently, I'm working on my NBA Stats discord bot that scrapes stats from basketball reference and displays them in discord through commands. I am also beginning development on a Machine Learning Algorithm that will predict if a new player will enter the Hall of Fame by the end of their career.
 
