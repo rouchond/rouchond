@@ -22,5 +22,13 @@
 
 ## About Me
 
-##### I'm an avid basketball fan who enjoys web scraping and machine learning. Currently, I'm working on my NBA Stats discord bot that scrapes stats from basketball reference and displays them in discord through commands. I am also beginning development on a Machine Learning Algorithm that will predict if a new player will enter the Hall of Fame by the end of their career.
+##### I've been a huge NBA fan since around 2013 (Jazz & Cavs all the way). My favorite player is Donovan Mitchell, the rightful winner of the 2018 ROTY award. I also love playing video games, FIFA (or now its FC) being my main game. My love for programming is recent, and I just enjoy creating projects that solve problems that me and my friends run into.
+
+## NBA Stats Bot
+
+#### In my NBA fantasy league, I find that my me and my friends are often looking up stats of specific players. Some of my friends also partake in sports gambling. Instead of constantly searching up stats and going from site to site, I thought it would be a great idea to implement a bot that can tell you the averages of a player, the scores of live games, and the scores of the most recent games. I'm developing this project in python using the discord.py library alongside aiohttp, asyncio, BS4 and json. This project is still a work in progress.
+
+## NBA HOF Predictor
+
+#### I am also working on a ML Algorithm that will predict whether or not a player will enter the HOF by the end of their career based on their college averages, the averages in their first 3 seasons in the NBA, and their draft pick. I am still deciding what other factors will be used in the algorithm, and this project is also a work in progress.
 
