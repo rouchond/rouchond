@@ -28,7 +28,3 @@
 
 #### In my NBA fantasy league, I find that my me and my friends are often looking up stats of specific players. Some of my friends also partake in sports gambling. Instead of constantly searching up stats and going from site to site, I thought it would be a great idea to implement a bot that can tell you the averages of a player, the scores of live games, and the scores of the most recent games. I'm developing this project in python using the discord.py library alongside aiohttp, asyncio, BS4 and json. This project is still a work in progress.
 
-## NBA HOF Predictor
-
-#### I am also working on a ML Algorithm that will predict whether or not a player will enter the HOF by the end of their career based on their college averages, the averages in their first 3 seasons in the NBA, and their draft pick. I am still deciding what other factors will be used in the algorithm, and this project is also a work in progress.
-
