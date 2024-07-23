@@ -26,5 +26,5 @@
 
 ## NBA Stats Bot
 
-#### In my NBA fantasy league, I find that my me and my friends are often looking up stats of specific players. Some of my friends also partake in sports gambling. Instead of constantly searching up stats and going from site to site, I thought it would be a great idea to implement a bot that can tell you the averages of a player, the scores of live games, and the scores of the most recent games. I'm developing this project in python using the discord.py library alongside aiohttp, asyncio, BS4 and json. This project is still a work in progress.
+#### In my NBA fantasy league, I find that my me and my friends are often looking up stats of specific players. Some of my friends also partake in sports betting. Instead of constantly searching up stats and going from site to site, I thought it would be a great idea to implement a bot that can tell you the averages of a player, the scores of live games, and the scores of the most recent games. I'm developing this project in python using the discord.py library alongside aiohttp, asyncio, BS4 and json. This project is still a work in progress.
 
