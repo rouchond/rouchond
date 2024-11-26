@@ -28,3 +28,7 @@
 
 #### In my NBA fantasy league, I find that my me and my friends are often looking up stats of specific players. Some of my friends also partake in sports betting. Instead of constantly searching up stats and going from site to site, I thought it would be a great idea to implement a bot that can tell you the averages of a player, the scores of live games, and the scores of the most recent games. I'm developing this project in python using the discord.py library alongside aiohttp, asyncio, BS4 and json. This project is still a work in progress.
 
+## Java Platformer
+
+#### Video games have always been my main hobby, and so my natural gateway to using programming in my hobbies is creating games. I've made small, unfinished projects in Roblox in my  Youtube channel MakenDev, but I want to work on creating a game from "scratch" without a game engine. I decided Java would be the best language for this since I am familiar with their Swing Component's framework, and I've started work on a Ronin Platformer that I have yet to name. If I enjoy creating this project and I see that progress is going well, I am considering documenting my progress in a series of devlogs on my Youtube channel.
+
